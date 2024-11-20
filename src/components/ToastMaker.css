@@ -1,0 +1,10 @@
+.toast-maker {
+  position: fixed;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: rgb(215,215,215);
+  color:black;
+  padding:10px;
+  border-radius: 2px;
+}
